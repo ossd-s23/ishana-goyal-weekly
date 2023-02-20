@@ -23,6 +23,6 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/52)    | Course Website    |   I noticed a typo in the OpenStreetMap Activity.    |
-| Feb 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/53)    | Fellow Student's Blog    |   I noticed a fellow student creating blog posts to track contributions (instead of this table).    |
+| Feb 19   | [GitHub Issue Link](https://github.com/ossd-s23/shannonh800-weekly/issues/1)    | Fellow Student's Blog    |   I noticed a fellow student creating blog posts to track contributions (instead of this table).    |
 |     |     |     |      |
 |     |     |     |      |
