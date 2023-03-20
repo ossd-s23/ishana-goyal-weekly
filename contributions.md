@@ -29,5 +29,6 @@ Replace the first row with your own contribution.
 | Mar 19   | [GitHub PR Link](https://github.com/joannakl/ossd/pull/64)    | Course Website    |   Fixed a broken link on Week 9.    |
 | Mar 19   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/133870362)    | OpenStreetMap    |   Added my old NYC apartment building.    |
 | Mar 19   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/133870786)    | OpenStreetMap    |   Added a creperie on St. Marks Street.    |
+| Mar 20   | [GitHub PR Link](https://github.com/joannakl/ossd/pull/67)    | Course Website    |   Fixed a typo on course website.    |
 |     |     |     |      |
 |     |     |     |      |
