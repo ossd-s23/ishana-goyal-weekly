@@ -30,5 +30,10 @@ Replace the first row with your own contribution.
 | Mar 19   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/133870362)    | OpenStreetMap    |   Added my old NYC apartment building.    |
 | Mar 19   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/133870786)    | OpenStreetMap    |   Added a creperie on St. Marks Street.    |
 | Mar 20   | [GitHub PR Link](https://github.com/joannakl/ossd/pull/67)    | Course Website    |   Fixed a typo on course website.    |
+| Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431406)    | OpenStreetMap    |   Added an ice cream shop on 3rd Ave.    |
+| Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431488)    | OpenStreetMap    |   Added Ukrainian Village Park.    |
+| Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431521)    | OpenStreetMap    |   Added details to a Thai restaurant on St. Marks Street.    |
+| Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431590)    | OpenStreetMap    |   Added a dumpling shop on St. Marks Street.    |
+| Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431645)    | OpenStreetMap    |   Added a cream puff store on St. Marks Street.    |
 |     |     |     |      |
 |     |     |     |      |
