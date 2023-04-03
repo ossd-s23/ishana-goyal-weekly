@@ -35,5 +35,6 @@ Replace the first row with your own contribution.
 | Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431521)    | OpenStreetMap    |   Added details to a Thai restaurant on St. Marks Street.    |
 | Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431590)    | OpenStreetMap    |   Added a dumpling shop on St. Marks Street.    |
 | Apr 2   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134431645)    | OpenStreetMap    |   Added a cream puff store on St. Marks Street.    |
+| Apr 3   | [GitHub Issue Link](https://github.com/ossd-s23/gracezhang89-weekly/issues/1)    | Fellow Student's Blog    |   Suggested that a fellow student rename their blog's to match the course website weekly ordering.    |
 |     |     |     |      |
 |     |     |     |      |
