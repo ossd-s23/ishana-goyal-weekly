@@ -38,5 +38,9 @@ Replace the first row with your own contribution.
 | Apr 3   | [GitHub Issue Link](https://github.com/ossd-s23/gracezhang89-weekly/issues/1)    | Fellow Student's Blog    |   Suggested that a fellow student rename their blog's to match the course website weekly ordering.    |
 | Apr 9   | [Edited Wikipedia Page](https://en.wikipedia.org/w/index.php?title=Shannon_Funchess&oldid=1149079088) & [Contribution Log](https://en.wikipedia.org/wiki/Special:Contributions/Ishana-Goyal)    | Wikipedia    |   Added two more categories to an article (Shannon Funchess) in need of more specific categories according to the March 2023 review.    |
 | Apr 9   | [Edited Wikipedia Page](https://en.wikipedia.org/w/index.php?title=Elliot_Grainge&oldid=1149082947) & [Contribution Log](https://en.wikipedia.org/wiki/Special:Contributions/Ishana-Goyal)    | Wikipedia    |   Added one more category to an article (Elliot Grainge) in need of more specific categories according to the March 2023 review.    |
+| Apr 17   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134998043)    | OpenStreetMap    |   Added a Chinese Buns takeout restaurant on MacDougal Street.    |
+| Apr 17   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134998109)    | OpenStreetMap    |   Added a Chinese restaurant (Tipsy Shanghai) on Thompson Street.    |
+| Apr 17   | [OpenStreetMap Link](https://www.openstreetmap.org/changeset/134998151)    | OpenStreetMap    |   Added a Vegan Chinese restaurant (Spicy Moon) on West 3rd Street.    |
+| Apr 17   | [Edited Wikipedia Page](https://en.wikipedia.org/w/index.php?title=Robert_Lepenies&oldid=1150265635) & [Contribution Log](https://en.wikipedia.org/wiki/Special:Contributions/Ishana-Goyal)    | Wikipedia    |   Added three categories to an article (Robert Lepenies) in need of more specific categories according to the March 2023 review.    |
 |     |     |     |      |
 |     |     |     |      |
