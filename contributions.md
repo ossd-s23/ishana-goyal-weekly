@@ -44,5 +44,6 @@ Replace the first row with your own contribution.
 | Apr 17   | [Edited Wikipedia Page](https://en.wikipedia.org/w/index.php?title=Robert_Lepenies&oldid=1150265635) & [Contribution Log](https://en.wikipedia.org/wiki/Special:Contributions/Ishana-Goyal)    | Wikipedia    |   Added three categories to an article (Robert Lepenies) in need of more specific categories according to the March 2023 review.    |
 | Apr 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/72)    | Course Website    |   I noticed a typo in the Contributions slide deck.    |
 | Apr 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/73)    | Course Website    |   I noticed a typo in the Week 13 assignments list.    |
+| Apr 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/74)    | Course Website    |   I reported a typo in the Business Use in Open Source slide deck (as pointed out during the class discussion).    |
 |     |     |     |      |
 |     |     |     |      |
