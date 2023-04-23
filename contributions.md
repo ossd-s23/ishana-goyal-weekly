@@ -45,5 +45,6 @@ Replace the first row with your own contribution.
 | Apr 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/72)    | Course Website    |   I noticed a typo in the Contributions slide deck.    |
 | Apr 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/73)    | Course Website    |   I noticed a typo in the Week 13 assignments list.    |
 | Apr 19   | [GitHub Issue Link](https://github.com/joannakl/ossd/issues/74)    | Course Website    |   I reported a typo in the Business Use in Open Source slide deck (as pointed out during the class discussion).    |
+| Apr 23   | [GitHub Comment Link](https://github.com/joannakl/ossd/issues/78#issuecomment-1519136135)    | Course Website    |   I added additional information to a fellow student's issue report (2 possible links to fix a broken link, and a text change recommendation based on the chosen link).    |
 |     |     |     |      |
 |     |     |     |      |
